@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Composite</title>
+    <meta name="description" content="Composite — A-Frame">
+    <script src="/aframe.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-assets>
+        <img id="lake" src="/Venice.Still001.jpeg">
+        <img id="pdx" src="/Eastern_Washington_University_Seal.svg.png">
+      </a-assets>
+
+      <a-sky src="#lake"></a-sky>
+      <a-image src="#pdx" width="10" height="10" position="-2 1.2 1.2" scale="0.2 0.2 0.2"></a-image>
+    </a-scene>
+  </body>
+</html>
