@@ -79,6 +79,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
+	"\/html\/mountain.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/mountain.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/html\/mountain.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/mountain.kit",
+		"outputAbbreviatedPath": "\/html\/mountain.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/html\/trafalgar.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -95,6 +113,17 @@
 		"initialSize": 263343,
 		"inputAbbreviatedPath": "\/img\/Eastern_Washington_University_Seal.svg.png",
 		"outputAbbreviatedPath": "\/img\/Eastern_Washington_University_Seal.svg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/mountain.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.98e+06,
+		"inputAbbreviatedPath": "\/img\/mountain.jpg",
+		"outputAbbreviatedPath": "\/img\/mountain.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
