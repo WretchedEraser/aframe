@@ -79,6 +79,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
+	"\/html\/Trafalgar.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/Trafalgar.kit",
+		"outputAbbreviatedPath": "\/Trafalgar.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
 	"\/img\/Eastern_Washington_University_Seal.svg.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -86,6 +95,17 @@
 		"initialSize": 263343,
 		"inputAbbreviatedPath": "\/img\/Eastern_Washington_University_Seal.svg.png",
 		"outputAbbreviatedPath": "\/img\/Eastern_Washington_University_Seal.svg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Trafalgar_Square.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9.2718e+06,
+		"inputAbbreviatedPath": "\/img\/Trafalgar_Square.jpg",
+		"outputAbbreviatedPath": "\/img\/Trafalgar_Square.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -170,6 +190,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scene1body.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Trafalgar.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Trafalgar.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
