@@ -79,6 +79,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
+	"\/html\/lions.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/lions.kit",
+		"outputAbbreviatedPath": "\/lions.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
 	"\/html\/mountain.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -95,6 +104,17 @@
 		"initialSize": 263343,
 		"inputAbbreviatedPath": "\/img\/Eastern_Washington_University_Seal.svg.png",
 		"outputAbbreviatedPath": "\/img\/Eastern_Washington_University_Seal.svg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/lions.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 647383,
+		"inputAbbreviatedPath": "\/img\/lions.jpg",
+		"outputAbbreviatedPath": "\/img\/lions.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -184,6 +204,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/lions.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/lions.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/mountain.html": {
 		"fileType": 8192,
