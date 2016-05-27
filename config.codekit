@@ -79,12 +79,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
-	"\/html\/Trafalgar.kit": {
+	"\/html\/trafalgar.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/Trafalgar.kit",
-		"outputAbbreviatedPath": "\/Trafalgar.html",
+		"inputAbbreviatedPath": "\/html\/trafalgar.kit",
+		"outputAbbreviatedPath": "\/trafalgar.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
@@ -194,11 +194,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Trafalgar.html": {
+	"\/trafalgar.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Trafalgar.html",
+		"inputAbbreviatedPath": "\/trafalgar.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
