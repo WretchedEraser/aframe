@@ -17,15 +17,15 @@
     z-index: 2;
 }
 .modal .button {
+  transition: padding 1s;
+  transition-timing-function: ease;
     font-size: 1em;
     padding: 2em;
     width: 100%;
     color: #fff;
 }
 .modal .button:hover {
-    transition: font-size 3s;
-    transition-timing-function: ease;
-    font-size: 1.25em;
+    padding: 3em;
     color: #fff;
 }
 .ui .toggle .button {
