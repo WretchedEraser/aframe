@@ -1,5 +1,5 @@
 addToHomescreen({
-    startDelay: 5
+    mandatory: true
 });
 //prevent anchor link default on mobile web app
 var a = document.getElementsByTagName("a");
