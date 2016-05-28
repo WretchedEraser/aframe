@@ -6,25 +6,37 @@
     <title>Composite</title>
     <meta name="description" content="Composite — A-Frame">
     <!-- behavior is priority 1 in this app therefore top load script -->
-    <script src="js/aframe.js"></script>
+    <script src="js/min/aframe-min.js"></script>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+<div class="ui sidebar inverted vertical menu">
+    <a class="item" href="lions.html">
+      Lions
+    </a>
+    <a class="item" href="index.html">
+      Venice
+    </a>
+  </div>
+  <div class="pusher">
+    <!-- Site content !-->
 <a-scene>
     <a-assets>
         <img id="lake" src="img/lions.jpg">
         <img id="pdx" src="img/Eastern_Washington_University_Seal.svg.png">
     </a-assets>
-    <a href="index.html"><div class="ui toggle button">next</div></a>
+    <!-- <a href="index.html"> -->
+      <div class="ui toggle button">next</div>
+    <!-- </a> -->
     <a-sky src="#lake"></a-sky>
 
     <a-image src="#pdx" width="10" height="10" position="-2 1.2 1.2" scale="0.2 0.2 0.2"></a-image>
 </a-scene>
 
-
+  </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-<script type="text/javascript" src"js/semantic.js"></script>
-<script type="text/javascript" src"js/scripts.js"></script>
+<script type="text/javascript" src="js/semantic.js"></script>
+<script type="text/javascript" src="js/min/scripts-min.js"></script>
 </body>
 
 </html>
