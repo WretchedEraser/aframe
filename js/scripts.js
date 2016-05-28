@@ -1,3 +1,6 @@
+addToHomescreen({
+    startDelay: 5
+});
 //prevent anchor link default on mobile web app
 var a = document.getElementsByTagName("a");
 for (var i = 0; i < a.length; i++) {
@@ -6,6 +9,12 @@ for (var i = 0; i < a.length; i++) {
         return false;
     };
 }
+window.addEventListener('orientationchange', function(evt) {
+    switch (window.orientation) {
+        case 90: // landscape
+        case -90: // landscape
+    }
+}, false);
 $('#showModalBtn').click(function() {
     $('.ui.long.modal').modal('show');
 });
