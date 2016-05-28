@@ -698,6 +698,116 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/img\/splash-ios\/Default.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48108,
+		"inputAbbreviatedPath": "\/img\/splash-ios\/Default.png",
+		"outputAbbreviatedPath": "\/img\/splash-ios\/Default.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/splash-ios\/ipad_1024x768.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50196,
+		"inputAbbreviatedPath": "\/img\/splash-ios\/ipad_1024x768.png",
+		"outputAbbreviatedPath": "\/img\/splash-ios\/ipad_1024x768.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/splash-ios\/ipad_1536x2048.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78879,
+		"inputAbbreviatedPath": "\/img\/splash-ios\/ipad_1536x2048.png",
+		"outputAbbreviatedPath": "\/img\/splash-ios\/ipad_1536x2048.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/splash-ios\/ipad_2048x1536.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85286,
+		"inputAbbreviatedPath": "\/img\/splash-ios\/ipad_2048x1536.png",
+		"outputAbbreviatedPath": "\/img\/splash-ios\/ipad_2048x1536.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/splash-ios\/ipad_768x1024.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49584,
+		"inputAbbreviatedPath": "\/img\/splash-ios\/ipad_768x1024.png",
+		"outputAbbreviatedPath": "\/img\/splash-ios\/ipad_768x1024.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/splash-ios\/iphone6-portrait_750x1334.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67087,
+		"inputAbbreviatedPath": "\/img\/splash-ios\/iphone6-portrait_750x1334.png",
+		"outputAbbreviatedPath": "\/img\/splash-ios\/iphone6-portrait_750x1334.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/splash-ios\/iphone6s-landscape_2208x1242.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82108,
+		"inputAbbreviatedPath": "\/img\/splash-ios\/iphone6s-landscape_2208x1242.png",
+		"outputAbbreviatedPath": "\/img\/splash-ios\/iphone6s-landscape_2208x1242.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/splash-ios\/iphone6s-portrait_1242x2208.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80113,
+		"inputAbbreviatedPath": "\/img\/splash-ios\/iphone6s-portrait_1242x2208.png",
+		"outputAbbreviatedPath": "\/img\/splash-ios\/iphone6s-portrait_1242x2208.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/splash-ios\/iphone_640x1136.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54212,
+		"inputAbbreviatedPath": "\/img\/splash-ios\/iphone_640x1136.png",
+		"outputAbbreviatedPath": "\/img\/splash-ios\/iphone_640x1136.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/splash-ios\/iphone_640x960.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44926,
+		"inputAbbreviatedPath": "\/img\/splash-ios\/iphone_640x960.png",
+		"outputAbbreviatedPath": "\/img\/splash-ios\/iphone_640x960.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 1,
