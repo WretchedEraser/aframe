@@ -707,7 +707,7 @@
 		"outputAbbreviatedPath": "\/img\/splash-ios\/Default.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/splash-ios\/ipad_1024x768.png": {
 		"fileType": 32768,
@@ -718,7 +718,7 @@
 		"outputAbbreviatedPath": "\/img\/splash-ios\/ipad_1024x768.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/splash-ios\/ipad_1536x2048.png": {
 		"fileType": 32768,
@@ -729,7 +729,7 @@
 		"outputAbbreviatedPath": "\/img\/splash-ios\/ipad_1536x2048.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/splash-ios\/ipad_2048x1536.png": {
 		"fileType": 32768,
@@ -740,7 +740,7 @@
 		"outputAbbreviatedPath": "\/img\/splash-ios\/ipad_2048x1536.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/splash-ios\/ipad_768x1024.png": {
 		"fileType": 32768,
@@ -751,7 +751,7 @@
 		"outputAbbreviatedPath": "\/img\/splash-ios\/ipad_768x1024.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/splash-ios\/iphone6-portrait_750x1334.png": {
 		"fileType": 32768,
@@ -762,7 +762,7 @@
 		"outputAbbreviatedPath": "\/img\/splash-ios\/iphone6-portrait_750x1334.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/splash-ios\/iphone6s-landscape_2208x1242.png": {
 		"fileType": 32768,
@@ -773,7 +773,7 @@
 		"outputAbbreviatedPath": "\/img\/splash-ios\/iphone6s-landscape_2208x1242.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/splash-ios\/iphone6s-portrait_1242x2208.png": {
 		"fileType": 32768,
@@ -784,7 +784,7 @@
 		"outputAbbreviatedPath": "\/img\/splash-ios\/iphone6s-portrait_1242x2208.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/splash-ios\/iphone_640x1136.png": {
 		"fileType": 32768,
@@ -795,7 +795,7 @@
 		"outputAbbreviatedPath": "\/img\/splash-ios\/iphone_640x1136.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/splash-ios\/iphone_640x960.png": {
 		"fileType": 32768,
@@ -806,7 +806,7 @@
 		"outputAbbreviatedPath": "\/img\/splash-ios\/iphone_640x960.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
