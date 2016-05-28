@@ -39,6 +39,7 @@
     font-size: 15px;
     line-height: 1.5em;
     text-align: center;
+    z-index: 2;
 }
 .ath-container small {
     font-size: 0.8em;
