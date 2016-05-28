@@ -8,6 +8,9 @@ html.ios,
 html.ios body {
   height: initial !important;
 }
+.ui .sidebar .inverted .vertical .menu{
+  width: 1em;
+}
 
 .button, .browse{
   background: rgba(0, 0, 0, 0.35);

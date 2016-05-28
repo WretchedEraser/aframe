@@ -1,4 +1,14 @@
-
-$('.sidebar')
-  .sidebar('attach events', '.button')
-;
+//
+// $('.sidebar').first()
+//   .sidebar('attach events', '.toggle.button')
+// ;
+// $('.menu').hide();
+var a=document.getElementsByTagName("a");
+for(var i=0;i<a.length;i++)
+{
+    a[i].onclick=function()
+    {
+        window.location=this.getAttribute("href");
+        return false;
+    };
+}
