@@ -56,15 +56,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/html\/_modal-row2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/_modal-row2.kit",
-		"outputAbbreviatedPath": "\/html\/_modal-row2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/html\/_modal.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -465,50 +456,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/img\/scenes\/balloon.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 301201,
-		"inputAbbreviatedPath": "\/img\/scenes\/balloon.jpg",
-		"outputAbbreviatedPath": "\/img\/scenes\/balloon.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/img\/scenes\/elephants.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 212066,
-		"inputAbbreviatedPath": "\/img\/scenes\/elephants.jpg",
-		"outputAbbreviatedPath": "\/img\/scenes\/elephants.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/img\/scenes\/falls.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 771621,
-		"inputAbbreviatedPath": "\/img\/scenes\/falls.jpg",
-		"outputAbbreviatedPath": "\/img\/scenes\/falls.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/img\/scenes\/glacier.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 397730,
-		"inputAbbreviatedPath": "\/img\/scenes\/glacier.jpg",
-		"outputAbbreviatedPath": "\/img\/scenes\/glacier.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/scenes\/ice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -531,60 +478,104 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/scenes\/lions.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 647383,
-		"inputAbbreviatedPath": "\/img\/scenes\/lions.jpg",
-		"outputAbbreviatedPath": "\/img\/scenes\/lions.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/img\/scenes\/mountain.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.95728e+06,
-		"inputAbbreviatedPath": "\/img\/scenes\/mountain.jpg",
-		"outputAbbreviatedPath": "\/img\/scenes\/mountain.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/scenes\/ny.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 254157,
-		"inputAbbreviatedPath": "\/img\/scenes\/ny.jpg",
-		"outputAbbreviatedPath": "\/img\/scenes\/ny.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/scenes\/river.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 441336,
-		"inputAbbreviatedPath": "\/img\/scenes\/river.jpg",
-		"outputAbbreviatedPath": "\/img\/scenes\/river.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/img\/scenes\/Venice.Still001.jpeg": {
+	"\/img\/scenes\/index.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 326300,
-		"inputAbbreviatedPath": "\/img\/scenes\/Venice.Still001.jpeg",
-		"outputAbbreviatedPath": "\/img\/scenes\/Venice.Still001.jpeg",
+		"inputAbbreviatedPath": "\/img\/scenes\/index.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/index.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/img\/scenes\/scene1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 647383,
+		"inputAbbreviatedPath": "\/img\/scenes\/scene1.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/scene1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/scene2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 301201,
+		"inputAbbreviatedPath": "\/img\/scenes\/scene2.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/scene2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/scene3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.95728e+06,
+		"inputAbbreviatedPath": "\/img\/scenes\/scene3.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/scene3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/scenes\/scene4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212066,
+		"inputAbbreviatedPath": "\/img\/scenes\/scene4.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/scene4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/scene5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 254157,
+		"inputAbbreviatedPath": "\/img\/scenes\/scene5.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/scene5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/scenes\/scene6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 771621,
+		"inputAbbreviatedPath": "\/img\/scenes\/scene6.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/scene6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/scene7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 397730,
+		"inputAbbreviatedPath": "\/img\/scenes\/scene7.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/scene7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/scenes\/scene8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 441336,
+		"inputAbbreviatedPath": "\/img\/scenes\/scene8.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/scene8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -660,6 +651,27 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
 		},
 	"\/scene1.html": {
 		"fileType": 8192,

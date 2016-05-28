@@ -35,68 +35,66 @@
 
 <body>
 <div class="ui long modal">
-    <div class="ui centered grid ">
+  <h2>Select a scene</h2>
+    <div class="ui stackable three column grid ">
 
-        <div class="row">
-    <div class="four wide column">
+        
+    <div class="column">
         <a href="index.html">
-            <div class="ui toggle button">Venice</div>
+            <div class="ui toggle button" style="background: url(img/scenes/index.jpg); background-size: cover;">Venice</div>
         </a>
     </div>
-    <div class="four wide column">
+    <div class="column">
         <a href="scene1.html">
-            <div class="ui toggle button">lions</div>
+            <div class="ui toggle button" style="background: url(img/scenes/scene1.jpg); background-size: cover;">lions</div>
         </a>
     </div>
-    <div class="four wide column">
+    <div class="column">
         <a href="scene2.html">
-            <div class="ui toggle button">balloon</div>
+            <div class="ui toggle button" style="background: url(img/scenes/scene2.jpg); background-size: cover;">balloon</div>
         </a>
     </div>
-    <div class="four wide column">
+    <div class="column">
         <a href="scene3.html">
-            <div class="ui toggle button">mountain</div>
+            <div class="ui toggle button" style="background: url(img/scenes/scene3.jpg); background-size: cover;">mountain</div>
         </a>
     </div>
-</div>
-        <!-- buffer row -->
-        <div class="row"></div>
 
-        <div class="row">
-    <div class="four wide column">
+    <div class="column">
         <a href="scene4.html">
-            <div class="ui toggle button">elephants</div>
+            <div class="ui toggle button" style="background: url(img/scenes/scene4.jpg); background-size: cover;">elephants</div>
         </a>
     </div>
-    <div class="four wide column">
+    <div class="column">
         <a href="scene5.html">
-            <div class="ui toggle button">manhattan</div>
+            <div class="ui toggle button" style="background: url(img/scenes/scene5.jpg); background-size: cover;">manhattan</div>
         </a>
     </div>
-    <div class="four wide column">
+    <div class="column">
         <a href="scene6.html">
-            <div class="ui toggle button">falls</div>
+            <div class="ui toggle button" style="background: url(img/scenes/scene6.jpg); background-size: cover;">falls</div>
         </a>
     </div>
-    <div class="four wide column">
+    <div class="column">
         <a href="scene7.html">
-            <div class="ui toggle button">glacier</div>
+            <div class="ui toggle button" style="background: url(img/scenes/scene7.jpg); background-size: cover;">glacier</div>
         </a>
     </div>
-</div>
         <!-- buffer row -->
-        <div class="row"></div>
+
+        <!-- buffer row -->
+
     </div>
 </div>
 <a-scene>
     <a-assets>
         <!-- add 360 image file -->
-        <img id="scene" src="img/scenes/elephants.jpg">
+        <img id="scene" src="img/scenes/scene4.jpg">
         <!-- add descriptive element -->
         <img id="desc" src="img/desc/Eastern_Washington_University_Seal.svg.png">
     </a-assets>
 <!-- menu button -->
-<div class="ui toggle button" id="showModalBtn">next</div>
+<div class="ui toggle button" id="showModalBtn">menu</div>
 <!-- deploy photosphere -->
 <a-sky src="#scene"></a-sky>
 <!-- deploy descriptive element -->
