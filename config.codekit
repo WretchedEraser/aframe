@@ -146,7 +146,7 @@
 		"outputAbbreviatedPath": "\/img\/desc\/cats.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/desc\/Eastern_Washington_University_Seal.svg.png": {
 		"fileType": 32768,
@@ -157,7 +157,7 @@
 		"outputAbbreviatedPath": "\/img\/desc\/Eastern_Washington_University_Seal.svg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/android-chrome-144x144.png": {
 		"fileType": 32768,
@@ -465,7 +465,7 @@
 		"outputAbbreviatedPath": "\/img\/scenes\/ice.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/scenes\/iceland.jpg": {
 		"fileType": 16384,
@@ -476,7 +476,7 @@
 		"outputAbbreviatedPath": "\/img\/scenes\/iceland.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/scenes\/index.jpg": {
 		"fileType": 16384,
@@ -487,7 +487,7 @@
 		"outputAbbreviatedPath": "\/img\/scenes\/index.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/scenes\/scene1.jpg": {
 		"fileType": 16384,
@@ -520,7 +520,7 @@
 		"outputAbbreviatedPath": "\/img\/scenes\/scene3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/scenes\/scene4.jpg": {
 		"fileType": 16384,
@@ -542,7 +542,7 @@
 		"outputAbbreviatedPath": "\/img\/scenes\/scene5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/scenes\/scene6.jpg": {
 		"fileType": 16384,
@@ -564,7 +564,7 @@
 		"outputAbbreviatedPath": "\/img\/scenes\/scene7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/scenes\/scene8.jpg": {
 		"fileType": 16384,
@@ -573,6 +573,127 @@
 		"initialSize": 441336,
 		"inputAbbreviatedPath": "\/img\/scenes\/scene8.jpg",
 		"outputAbbreviatedPath": "\/img\/scenes\/scene8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/thumbs\/ice_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13321,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/ice_tn.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/ice_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/thumbs\/iceland_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17835,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/iceland_tn.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/iceland_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/thumbs\/index_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17852,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/index_tn.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/index_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/thumbs\/scene1_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20775,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene1_tn.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene1_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/thumbs\/scene2_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16055,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene2_tn.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene2_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/thumbs\/scene3_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13063,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene3_tn.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene3_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/thumbs\/scene4_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13517,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene4_tn.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene4_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/thumbs\/scene5_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15900,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene5_tn.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene5_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/thumbs\/scene6_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16730,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene6_tn.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene6_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/thumbs\/scene7_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20641,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene7_tn.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene7_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/thumbs\/scene8_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17740,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene8_tn.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene8_tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
