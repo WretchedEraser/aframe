@@ -91,20 +91,20 @@
 <a-scene>
     <a-assets>
         <!-- add 360 image file -->
-        <img id="scene" src="img/Venice.Still001.jpeg">
+        <img id="scene" src="img/scenes/Venice.Still001.jpeg">
         <!-- add descriptive element -->
-        <img id="desc" src="img/Eastern_Washington_University_Seal.svg.png">
+        <img id="desc" src="img/desc/Eastern_Washington_University_Seal.svg.png">
     </a-assets>
     <!-- menu button -->
-    <div class="ui toggle button" id="showModalBtn">next</div>
-    <!-- deploy photosphere -->
-    <a-sky src="#scene"></a-sky>
-    <!-- deploy descriptive element -->
-    <a-image src="#desc" width="10" height="10" position="-2 1.2 1.2" scale="0.2 0.2 0.2"></a-image>
+<div class="ui toggle button" id="showModalBtn">next</div>
+<!-- deploy photosphere -->
+<a-sky src="#scene"></a-sky>
+<!-- deploy descriptive element -->
+<a-image src="#desc" width="10" height="10" position="-2 1.2 1.2" scale="0.2 0.2 0.2"></a-image>
 </a-scene>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-<script type="text/javascript" src="js/semantic.js"></script>
+<script type="text/javascript" src="js/min/semantic-min.js"></script>
 <script type="text/javascript" src="js/min/scripts-min.js"></script>
 
 </body>

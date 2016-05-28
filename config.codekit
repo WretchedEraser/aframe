@@ -2,31 +2,6 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19115",
 "files": {
-	"\/css\/_semantic.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/_semantic.scss",
-		"outputAbbreviatedPath": "\/css\/_semantic.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/css\/plugins.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/plugins.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/css\/styles.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -36,28 +11,21 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/css\/styles.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/styles.scss",
-		"outputAbbreviatedPath": "\/css\/styles.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
 	"\/html\/_author.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/html\/_author.kit",
 		"outputAbbreviatedPath": "\/html\/_author.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/html\/_deploy.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/_deploy.kit",
+		"outputAbbreviatedPath": "\/_deploy.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -178,60 +146,27 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
-	"\/img\/balloon.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 301201,
-		"inputAbbreviatedPath": "\/img\/balloon.jpg",
-		"outputAbbreviatedPath": "\/img\/balloon.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/img\/cats.png": {
+	"\/img\/desc\/cats.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 28174,
-		"inputAbbreviatedPath": "\/img\/cats.png",
-		"outputAbbreviatedPath": "\/img\/cats.png",
+		"initialSize": 18971,
+		"inputAbbreviatedPath": "\/img\/desc\/cats.png",
+		"outputAbbreviatedPath": "\/img\/desc\/cats.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/img\/Eastern_Washington_University_Seal.svg.png": {
+	"\/img\/desc\/Eastern_Washington_University_Seal.svg.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 263343,
-		"inputAbbreviatedPath": "\/img\/Eastern_Washington_University_Seal.svg.png",
-		"outputAbbreviatedPath": "\/img\/Eastern_Washington_University_Seal.svg.png",
+		"initialSize": 169417,
+		"inputAbbreviatedPath": "\/img\/desc\/Eastern_Washington_University_Seal.svg.png",
+		"outputAbbreviatedPath": "\/img\/desc\/Eastern_Washington_University_Seal.svg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/img\/elephants.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 212066,
-		"inputAbbreviatedPath": "\/img\/elephants.jpg",
-		"outputAbbreviatedPath": "\/img\/elephants.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/img\/falls.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 771621,
-		"inputAbbreviatedPath": "\/img\/falls.jpg",
-		"outputAbbreviatedPath": "\/img\/falls.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/favicons\/android-chrome-144x144.png": {
 		"fileType": 32768,
@@ -530,93 +465,126 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/img\/glacier.jpg": {
+	"\/img\/scenes\/balloon.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 399884,
-		"inputAbbreviatedPath": "\/img\/glacier.jpg",
-		"outputAbbreviatedPath": "\/img\/glacier.jpg",
+		"initialSize": 301201,
+		"inputAbbreviatedPath": "\/img\/scenes\/balloon.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/balloon.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/img\/ice.jpg": {
+	"\/img\/scenes\/elephants.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 190561,
-		"inputAbbreviatedPath": "\/img\/ice.jpg",
-		"outputAbbreviatedPath": "\/img\/ice.jpg",
+		"initialSize": 212066,
+		"inputAbbreviatedPath": "\/img\/scenes\/elephants.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/elephants.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/img\/iceland.jpg": {
+	"\/img\/scenes\/falls.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 320996,
-		"inputAbbreviatedPath": "\/img\/iceland.jpg",
-		"outputAbbreviatedPath": "\/img\/iceland.jpg",
+		"initialSize": 771621,
+		"inputAbbreviatedPath": "\/img\/scenes\/falls.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/falls.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/img\/lions.jpg": {
+	"\/img\/scenes\/glacier.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 397730,
+		"inputAbbreviatedPath": "\/img\/scenes\/glacier.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/glacier.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/scenes\/ice.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186076,
+		"inputAbbreviatedPath": "\/img\/scenes\/ice.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/ice.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/scenes\/iceland.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 316252,
+		"inputAbbreviatedPath": "\/img\/scenes\/iceland.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/iceland.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/scenes\/lions.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 647383,
-		"inputAbbreviatedPath": "\/img\/lions.jpg",
-		"outputAbbreviatedPath": "\/img\/lions.jpg",
+		"inputAbbreviatedPath": "\/img\/scenes\/lions.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/lions.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/img\/mountain.jpg": {
+	"\/img\/scenes\/mountain.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.98e+06,
-		"inputAbbreviatedPath": "\/img\/mountain.jpg",
-		"outputAbbreviatedPath": "\/img\/mountain.jpg",
+		"initialSize": 1.95728e+06,
+		"inputAbbreviatedPath": "\/img\/scenes\/mountain.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/mountain.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/img\/ny.jpg": {
+	"\/img\/scenes\/ny.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 256317,
-		"inputAbbreviatedPath": "\/img\/ny.jpg",
-		"outputAbbreviatedPath": "\/img\/ny.jpg",
+		"initialSize": 254157,
+		"inputAbbreviatedPath": "\/img\/scenes\/ny.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/ny.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/img\/river.jpg": {
+	"\/img\/scenes\/river.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 441336,
-		"inputAbbreviatedPath": "\/img\/river.jpg",
-		"outputAbbreviatedPath": "\/img\/river.jpg",
+		"inputAbbreviatedPath": "\/img\/scenes\/river.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/river.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/img\/Venice.Still001.jpeg": {
+	"\/img\/scenes\/Venice.Still001.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 345635,
-		"inputAbbreviatedPath": "\/img\/Venice.Still001.jpeg",
-		"outputAbbreviatedPath": "\/img\/Venice.Still001.jpeg",
+		"initialSize": 326300,
+		"inputAbbreviatedPath": "\/img\/scenes\/Venice.Still001.jpeg",
+		"outputAbbreviatedPath": "\/img\/scenes\/Venice.Still001.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -755,6 +723,54 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/scss\/_semantic.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/_semantic.scss",
+		"outputAbbreviatedPath": "\/css\/_semantic.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scss\/plugins.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/plugins.scss",
+		"outputAbbreviatedPath": "\/css\/plugins.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scss\/styles.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/styles.scss",
+		"outputAbbreviatedPath": "\/css\/styles.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
 		}
 	},
 "hooks": [
