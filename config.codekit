@@ -187,7 +187,7 @@
 		"outputAbbreviatedPath": "\/img\/balloon.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/cats.png": {
 		"fileType": 32768,
@@ -198,7 +198,7 @@
 		"outputAbbreviatedPath": "\/img\/cats.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Eastern_Washington_University_Seal.svg.png": {
 		"fileType": 32768,
@@ -209,7 +209,7 @@
 		"outputAbbreviatedPath": "\/img\/Eastern_Washington_University_Seal.svg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/elephants.jpg": {
 		"fileType": 16384,
@@ -220,7 +220,7 @@
 		"outputAbbreviatedPath": "\/img\/elephants.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/falls.jpg": {
 		"fileType": 16384,
@@ -231,7 +231,7 @@
 		"outputAbbreviatedPath": "\/img\/falls.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/android-chrome-144x144.png": {
 		"fileType": 32768,
@@ -242,7 +242,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/android-chrome-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/android-chrome-192x192.png": {
 		"fileType": 32768,
@@ -253,7 +253,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/android-chrome-192x192.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/android-chrome-36x36.png": {
 		"fileType": 32768,
@@ -264,7 +264,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/android-chrome-36x36.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/android-chrome-48x48.png": {
 		"fileType": 32768,
@@ -275,7 +275,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/android-chrome-48x48.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/android-chrome-72x72.png": {
 		"fileType": 32768,
@@ -286,7 +286,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/android-chrome-72x72.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/android-chrome-96x96.png": {
 		"fileType": 32768,
@@ -297,7 +297,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/android-chrome-96x96.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/apple-touch-icon-114x114.png": {
 		"fileType": 32768,
@@ -308,7 +308,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/apple-touch-icon-114x114.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/apple-touch-icon-120x120.png": {
 		"fileType": 32768,
@@ -319,7 +319,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/apple-touch-icon-120x120.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/apple-touch-icon-144x144.png": {
 		"fileType": 32768,
@@ -330,7 +330,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/apple-touch-icon-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/apple-touch-icon-152x152.png": {
 		"fileType": 32768,
@@ -341,7 +341,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/apple-touch-icon-152x152.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/apple-touch-icon-180x180.png": {
 		"fileType": 32768,
@@ -352,7 +352,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/apple-touch-icon-180x180.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/apple-touch-icon-57x57.png": {
 		"fileType": 32768,
@@ -363,7 +363,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/apple-touch-icon-57x57.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/apple-touch-icon-60x60.png": {
 		"fileType": 32768,
@@ -374,7 +374,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/apple-touch-icon-60x60.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/apple-touch-icon-72x72.png": {
 		"fileType": 32768,
@@ -385,7 +385,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/apple-touch-icon-72x72.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/apple-touch-icon-76x76.png": {
 		"fileType": 32768,
@@ -396,7 +396,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/apple-touch-icon-76x76.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/apple-touch-icon-precomposed.png": {
 		"fileType": 32768,
@@ -407,7 +407,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -418,7 +418,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/favicon-16x16.png": {
 		"fileType": 32768,
@@ -429,7 +429,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/favicon-16x16.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/favicon-194x194.png": {
 		"fileType": 32768,
@@ -440,7 +440,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/favicon-194x194.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/favicon-32x32.png": {
 		"fileType": 32768,
@@ -451,7 +451,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/favicon-32x32.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/favicon-96x96.png": {
 		"fileType": 32768,
@@ -462,7 +462,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/favicon-96x96.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/manifest.json": {
 		"fileType": 524288,
@@ -484,7 +484,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/mstile-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/mstile-150x150.png": {
 		"fileType": 32768,
@@ -495,7 +495,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/mstile-150x150.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/mstile-310x150.png": {
 		"fileType": 32768,
@@ -506,7 +506,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/mstile-310x150.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/mstile-310x310.png": {
 		"fileType": 32768,
@@ -517,7 +517,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/mstile-310x310.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/favicons\/mstile-70x70.png": {
 		"fileType": 32768,
@@ -528,7 +528,7 @@
 		"outputAbbreviatedPath": "\/img\/favicons\/mstile-70x70.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/glacier.jpg": {
 		"fileType": 16384,
@@ -539,7 +539,7 @@
 		"outputAbbreviatedPath": "\/img\/glacier.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ice.jpg": {
 		"fileType": 16384,
@@ -550,7 +550,7 @@
 		"outputAbbreviatedPath": "\/img\/ice.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/iceland.jpg": {
 		"fileType": 16384,
@@ -561,7 +561,7 @@
 		"outputAbbreviatedPath": "\/img\/iceland.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/lions.jpg": {
 		"fileType": 16384,
@@ -572,7 +572,7 @@
 		"outputAbbreviatedPath": "\/img\/lions.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/mountain.jpg": {
 		"fileType": 16384,
@@ -583,7 +583,7 @@
 		"outputAbbreviatedPath": "\/img\/mountain.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ny.jpg": {
 		"fileType": 16384,
@@ -594,7 +594,7 @@
 		"outputAbbreviatedPath": "\/img\/ny.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/river.jpg": {
 		"fileType": 16384,
@@ -605,7 +605,7 @@
 		"outputAbbreviatedPath": "\/img\/river.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Venice.Still001.jpeg": {
 		"fileType": 16384,
@@ -616,7 +616,7 @@
 		"outputAbbreviatedPath": "\/img\/Venice.Still001.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -655,6 +655,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/scripts-min.js",
 		"outputAbbreviatedPath": "\/js\/min\/min\/scripts-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/semantic-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/semantic-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/semantic-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1307,7 +1318,7 @@
 	"kitAutoOutputPathRelativePath": "",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
-	"kitAutoOutputPathStyle": 0,
+	"kitAutoOutputPathStyle": 1,
 	"lessAllowInsecureImports": 0,
 	"lessAutoOutputPathEnabled": 1,
 	"lessAutoOutputPathFilenamePattern": "*.css",
