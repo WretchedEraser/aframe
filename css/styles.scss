@@ -1,5 +1,14 @@
 @import 'semantic';
 
+html.ios {
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+html.ios,
+html.ios body {
+  height: initial !important;
+}
+
 .button, .browse{
   background: rgba(0, 0, 0, 0.35);
 color: #fff;
