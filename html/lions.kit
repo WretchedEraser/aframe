@@ -2,15 +2,13 @@
 <!-- @import _sidebar-->
 <a-scene>
     <a-assets>
-        <img id="lake" src="img/lions.jpg">
-        <img id="pdx" src="img/Eastern_Washington_University_Seal.svg.png">
+        <img id="scene" src="img/lions.jpg">
+        <img id="desc" src="img/cats.png">
     </a-assets>
-    <a href="index.html">
-    <div class="ui toggle button">next</div>
-    </a>
-    <a-sky src="#lake"></a-sky>
+    <div class="ui toggle button" id="showModalBtn">next</div>
+    <a-sky src="#scene"></a-sky>
 
-    <a-image src="#pdx" width="10" height="10" position="-2 1.2 1.2" scale="0.2 0.2 0.2"></a-image>
+    <a-image src="#desc" width="8.5" height="11" position="-2 1.2 1.2" scale="0.2 0.2 0.2"></a-image>
 </a-scene>
 
 <!-- @import _footer  -->

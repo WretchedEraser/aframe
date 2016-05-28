@@ -1,31 +1,33 @@
 @import 'semantic';
-
+.modal {
+    padding: 6em;
+}
 html.ios {
-  overflow-x: hidden;
-  -webkit-overflow-scrolling: touch;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
 }
 html.ios,
 html.ios body {
-  height: initial !important;
+    height: initial !important;
 }
-.ui .sidebar .inverted .vertical .menu{
-  width: 1em;
+.ui .sidebar .inverted .vertical .menu {
+    width: 1em;
 }
-
-.button, .browse{
-  background: rgba(0, 0, 0, 0.35);
-color: #fff;
-display: block;
-font-size: 12px;
-line-height: 1.5;
-padding: 5px 10px;
-position: absolute;
-text-transform: uppercase;
-top: 5px;
-left: 5px;
-z-index: 2;
+.browse,
+.button {
+    background: rgba(0, 0, 0, 0.35);
+    color: #fff;
+    display: block;
+    font-size: 12px;
+    line-height: 1.5;
+    padding: 5px 10px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 5px;
+    left: 5px;
+    z-index: 2;
 }
-.dropdown{
-  z-index: 2;
-  background: red;
+.dropdown {
+    z-index: 2;
+    background: red;
 }
