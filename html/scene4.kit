@@ -1,13 +1,17 @@
 <!-- @import _header -->
-<!-- @import _sidebar-->
+<!-- @import _modal-->
 <a-scene>
     <a-assets>
+        <!-- add 360 image file -->
         <img id="scene" src="img/elephants.jpg">
+        <!-- add descriptive element -->
         <img id="desc" src="img/Eastern_Washington_University_Seal.svg.png">
     </a-assets>
+    <!-- menu button -->
     <div class="ui toggle button" id="showModalBtn">next</div>
+    <!-- deploy photosphere -->
     <a-sky src="#scene"></a-sky>
-
+    <!-- deploy descriptive element -->
     <a-image src="#desc" width="8.5" height="11" position="-2 1.2 1.2" scale="0.2 0.2 0.2"></a-image>
 </a-scene>
 
