@@ -47,12 +47,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/html\/_modal-row1.kit": {
+	"\/html\/_menu-items.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/_modal-row1.kit",
-		"outputAbbreviatedPath": "\/html\/_modal-row1.html",
+		"inputAbbreviatedPath": "\/html\/_menu-items.kit",
+		"outputAbbreviatedPath": "\/_menu-items.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -137,27 +137,27 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
-	"\/img\/desc\/cats.png": {
+	"\/img\/desc\/desc-placeholder.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 18971,
-		"inputAbbreviatedPath": "\/img\/desc\/cats.png",
-		"outputAbbreviatedPath": "\/img\/desc\/cats.png",
+		"initialSize": 36068,
+		"inputAbbreviatedPath": "\/img\/desc\/desc-placeholder.png",
+		"outputAbbreviatedPath": "\/img\/desc\/desc-placeholder.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/img\/desc\/Eastern_Washington_University_Seal.svg.png": {
+	"\/img\/desc\/descindex.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 169417,
-		"inputAbbreviatedPath": "\/img\/desc\/Eastern_Washington_University_Seal.svg.png",
-		"outputAbbreviatedPath": "\/img\/desc\/Eastern_Washington_University_Seal.svg.png",
+		"initialSize": 15103,
+		"inputAbbreviatedPath": "\/img\/desc\/descindex.png",
+		"outputAbbreviatedPath": "\/img\/desc\/descindex.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/favicons\/android-chrome-144x144.png": {
 		"fileType": 32768,
