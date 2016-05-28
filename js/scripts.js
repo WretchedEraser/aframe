@@ -6,12 +6,7 @@ for (var i = 0; i < a.length; i++) {
         return false;
     };
 }
-window.addEventListener('orientationchange', function(evt) {
-    switch (window.orientation) {
-        case 90: // landscape
-        case -90: // landscape
-    }
-}, false);
+
 $('#showModalBtn').click(function() {
     $('.ui.long.modal').modal('show');
 });
