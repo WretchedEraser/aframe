@@ -478,6 +478,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/scenes\/486415922.184738.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.45766e+06,
+		"inputAbbreviatedPath": "\/img\/scenes\/486415922.184738.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/486415922.184738.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/scenes\/ice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -500,6 +511,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/img\/scenes\/IMG_0125.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.49257e+06,
+		"inputAbbreviatedPath": "\/img\/scenes\/IMG_0125.JPG",
+		"outputAbbreviatedPath": "\/img\/scenes\/IMG_0125.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/scenes\/IMG_0126.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.29527e+06,
+		"inputAbbreviatedPath": "\/img\/scenes\/IMG_0126.JPG",
+		"outputAbbreviatedPath": "\/img\/scenes\/IMG_0126.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/scenes\/IMG_0127.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.10658e+06,
+		"inputAbbreviatedPath": "\/img\/scenes\/IMG_0127.JPG",
+		"outputAbbreviatedPath": "\/img\/scenes\/IMG_0127.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/scenes\/IMG_0128.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.03004e+06,
+		"inputAbbreviatedPath": "\/img\/scenes\/IMG_0128.JPG",
+		"outputAbbreviatedPath": "\/img\/scenes\/IMG_0128.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/scenes\/IMG_0129.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.84884e+06,
+		"inputAbbreviatedPath": "\/img\/scenes\/IMG_0129.JPG",
+		"outputAbbreviatedPath": "\/img\/scenes\/IMG_0129.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/scenes\/index.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -515,23 +581,23 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 647383,
+		"initialSize": 2.55642e+06,
 		"inputAbbreviatedPath": "\/img\/scenes\/scene1.jpg",
 		"outputAbbreviatedPath": "\/img\/scenes\/scene1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/scenes\/scene2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 301201,
+		"initialSize": 2.43591e+06,
 		"inputAbbreviatedPath": "\/img\/scenes\/scene2.jpg",
 		"outputAbbreviatedPath": "\/img\/scenes\/scene2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/scenes\/scene3.jpg": {
 		"fileType": 16384,
@@ -632,6 +698,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/img\/scenes\/thumbs\/scene1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 647383,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene1.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/img\/scenes\/thumbs\/scene1_tn.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -639,6 +716,17 @@
 		"initialSize": 20775,
 		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene1_tn.jpg",
 		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene1_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/scenes\/thumbs\/scene2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 301201,
+		"inputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene2.jpg",
+		"outputAbbreviatedPath": "\/img\/scenes\/thumbs\/scene2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
