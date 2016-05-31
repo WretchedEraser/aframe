@@ -467,6 +467,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/logo01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212225,
+		"inputAbbreviatedPath": "\/img\/logo01.png",
+		"outputAbbreviatedPath": "\/img\/logo01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/scenes\/ice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

@@ -1,6 +1,5 @@
 @import 'semantic';
 @import 'plugins';
-
 $text-color: #fff;
 .modal {
     padding: 6em;
@@ -10,7 +9,7 @@ $text-color: #fff;
     background: #a10022;
     color: $text-color;
     display: block;
-    font-size: .75em;
+    font-size: 0.75em;
     line-height: 1.5;
     padding: 0.65em;
     position: absolute;
@@ -21,7 +20,7 @@ $text-color: #fff;
 }
 // scene buttons in modal
 .modal .button {
-    transition: padding .5s;
+    transition: padding 0.5s;
     transition-timing-function: ease-in-out;
     font-size: 1em;
     padding: 2em;
@@ -37,21 +36,15 @@ $text-color: #fff;
 .ui .toggle .button {
     background-size: cover;
 }
-.button {
-    background-image: image(#scene);
+.a-enter-vr-modal:after {
+    background: transparent;
 }
-.a-enter-vr-button {
-    // right: 20px;
-    // bottom: 20px;
+.a-enter-vr-modal {
+    background: transparent;
+    font-size: 0.70em;
+    width: 200px;
+    bottom: 20px;
 }
-.a-enter-vr-modal:after{
-  background: transparent;
-}
-.a-enter-vr-modal{
-  background: transparent;
-  font-size: .70em;
-}
-
-  .modal{
+.modal {
     padding: 3em;
-  }
+}
