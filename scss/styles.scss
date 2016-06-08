@@ -4,6 +4,9 @@ $text-color: #fff;
 .modal {
     padding: 6em;
 }
+html{
+  background: #000;
+}
 // modal button on home screen
 #showModalBtn {
     background: #a10022;
@@ -17,6 +20,20 @@ $text-color: #fff;
     top: 5px;
     left: 5px;
     z-index: 2;
+}
+#nextSceneBtn{
+  background: transparent;
+  color: transparent;
+  display: block;
+  font-size: 0.75em;
+  line-height: 1.5;
+  padding: 2.65em;
+  position: absolute;
+  text-transform: uppercase;
+  top: 5px;
+  left: 50%;
+
+  z-index: 2;
 }
 // scene buttons in modal
 .modal .button {
