@@ -22,16 +22,16 @@ html{
     z-index: 2;
 }
 #nextSceneBtn{
-  background: transparent;
-  color: transparent;
+  background: #a10022;
+  color: $text-color;
   display: block;
   font-size: 0.75em;
   line-height: 1.5;
-  padding: 2.65em;
+  padding: .65em;
   position: absolute;
   text-transform: uppercase;
   top: 5px;
-  left: 50%;
+  right: 5px;
 
   z-index: 2;
 }
