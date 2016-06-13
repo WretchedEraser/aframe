@@ -209,6 +209,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/desc-13.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16904,
+		"inputAbbreviatedPath": "\/img\/desc-13.png",
+		"outputAbbreviatedPath": "\/img\/desc-13.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/desc\/desc-placeholder.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -257,12 +268,12 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 41677,
+		"initialSize": 103762,
 		"inputAbbreviatedPath": "\/img\/desc\/desc12.png",
 		"outputAbbreviatedPath": "\/img\/desc\/desc12.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/desc\/desc13.png": {
 		"fileType": 32768,
@@ -345,23 +356,23 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 46323,
+		"initialSize": 29782,
 		"inputAbbreviatedPath": "\/img\/desc\/desc6.png",
 		"outputAbbreviatedPath": "\/img\/desc\/desc6.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/desc\/desc7.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 36613,
+		"initialSize": 36442,
 		"inputAbbreviatedPath": "\/img\/desc\/desc7.png",
 		"outputAbbreviatedPath": "\/img\/desc\/desc7.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/desc\/desc8.png": {
 		"fileType": 32768,
